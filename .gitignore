@@ -1,0 +1,10 @@
+# Gradle
+.gradle
+
+# Target
+build
+contracts-kotlin/build
+contracts-java/build
+workflows-java/build
+workflows-kotlin/build
+
